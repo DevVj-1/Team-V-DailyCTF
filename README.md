@@ -52,3 +52,6 @@ https://github.com/DevVj-1/Team-V-X-DailyCTF.git
 6. **Host It On Cloud**: Visit [blog](https://goofygiraffe06.github.io/discord_bot/) to host it in the cloud 24/7.(This article is not my thanks to the authors)
 7. **Invite & Engage**: Once operational, invite the bot to your server and engage using the provided slash commands.
 
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
