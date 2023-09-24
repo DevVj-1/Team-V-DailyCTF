@@ -54,4 +54,4 @@ https://github.com/DevVj-1/Team-V-X-DailyCTF.git
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE.md) for details.
