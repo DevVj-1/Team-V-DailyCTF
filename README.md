@@ -49,7 +49,7 @@ https://github.com/DevVj-1/Team-V-X-DailyCTF.git
 3. **Setup Environment**: Navigate to the directory and ensure dependencies are properly installed.
 4. **Configuration**: Customize the configuration files to align with your server's requirements.
 5. **Bot Activation**: Launch the bot and confirm its active status on your server.
-6. **Host It On Cloud**: Visit [blog](https://goofygiraffe06.github.io/discord_bot/) to host it in the cloud 24/7.(This article is not my thanks to the authors)
+6. **Host It On Cloud**: Visit my [blog](https://medium.com/@devvijay7113/running-discord-bots-24-7-for-free-with-replit-and-uptime-robot-43caebb0cb60) to host it in the cloud 24/7.
 7. **Invite & Engage**: Once operational, invite the bot to your server and engage using the provided slash commands.
 
 ## License
