@@ -60,3 +60,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE.md) for de
 
 https://github.com/Goofygiraffe06/DailyCTFRobot 
 
+# Challenge examples:
+
+![Screenshot_2023-12-17-15-57-35-820-edit_com discord](https://github.com/DevVj-1/Team-V-DailyCTF/assets/106962581/ddadc566-9ae3-4506-8237-953fdd27ec37)
