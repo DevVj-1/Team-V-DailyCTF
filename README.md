@@ -58,7 +58,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE.md) for de
 
 ## Contributors 
 
-https://github.com/Goofygiraffe06/DailyCTFRobot 
+ https://github.com/Goofygiraffe06
 
 # Challenge examples:
 
