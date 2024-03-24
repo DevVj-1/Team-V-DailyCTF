@@ -58,7 +58,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE.md) for de
 
 ## Contributors 
 
-git clone https://github.com/Goofygiraffe06
+https://github.com/Goofygiraffe06
 
 # Challenge examples:
 
